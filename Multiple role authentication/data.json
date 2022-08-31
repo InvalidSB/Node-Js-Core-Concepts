@@ -1,0 +1,88 @@
+
+  { 
+  "financialAid": {
+          "Student_Financial_Aid": {
+              "All_Undergraduate_Students": {
+                  "Percent_receiving_aid": "",
+                  "Average_amount_of_aid_received": ""
+              },
+              "Any_Grant_Or_Scholarship_Aid": {
+                  "Percent_receiving_aid": "90%",
+                  "Average_amount_of_aid_received": "$5,603"
+              },
+              "Pell_Grants": {
+                  "Percent_receiving_aid": "69%",
+                  "Average_amount_of_aid_received": "$7,845"
+              },
+              "Federal_Student_Loans": {
+                  "Percent_receiving_aid": "8%",
+                  "Average_amount_of_aid_received": "$3,371"
+              },
+              "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+                  "Percent_receiving_aid": "",
+                  "Average_amount_of_aid_received": ""
+              }
+          }
+      },
+      "retentionAndGraduation": {
+          "Retention_And_Graduation": {
+              "Overall_Graduation_Rates": {
+                  "Rate": " "
+              },
+              "Total": {
+                  "Rate": "49%"
+              },
+              "Men": {
+                  "Rate": "57%"
+              },
+              "Women": {
+                  "Rate": "40%"
+              },
+              "Nonresident_Alien": {
+                  "Rate": "100%"
+              },
+              "Transfer_Out-rate": {
+                  "Rate": "7%"
+              }
+          }
+      },
+      "unitId": "139384",
+      "elevatorInfo": {
+          "Institution_Characteristics": {
+              "Unitid": "139384",
+              "Name": "Georgia Northwestern Technical College",
+              "City": "Rome",
+              "State": "GA",
+              "Web_Address": "www.gntc.edu/",
+              "Distance_Learning": "Offers undergraduate courses and/or programs"
+          }
+      },
+      "studentCharges": {
+          "Cost": {
+              "Published_Tuition_And_Required_Fees": "",
+              "In-state": "$3,062",
+              "Out-of-state": "$5,462",
+              "Books_And_Supplies": "$1,500",
+              "Off-campus_(not_With_Family)_Room_And_Board": "$5,528",
+              "Off-campus_(not_With_Family)_Other_Expenses": "$5,191",
+              "Off-campus_(with_Family)_Other_Expenses": "$2,431",
+              "Total_Cost": "",
+              "Off-campus_(not_With_Family),_In-state": "$15,281",
+              "Off-campus_(not_With_Family),_Out_Of_State": "$17,681",
+              "Off-campus_(with_Family),_In-state": "$6,993",
+              "Off-campus_(with_Family),_Out-of-state": "$9,393"
+          },
+          "Level_of_student": {
+              "Undergraduate": {
+                  "In-state": "$3,062",
+                  "Out-of-state": "$5,462"
+              },
+              "Graduate": {
+                  "In-state": "",
+                  "Out-of-state": ""
+              }
+          }
+      }
+}
+
+
